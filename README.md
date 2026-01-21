@@ -84,3 +84,9 @@ Now go back to your Steam Library. Go to the **Properties** of the installer we 
 ### Running the Launcher.
 
 Now, if you click on **Play** again, the Launcher should open. Proceed toinstall the game and play like you would on Windows.
+
+## Caveats
+
+The game won't properly close unless you use the **STOP** button from Steam. 
+
+The game would first start up in full screen. This can be adjusted in game. You can resize the window and it will stay at the same aspect ratio.
