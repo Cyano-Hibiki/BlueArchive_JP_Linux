@@ -2,7 +2,7 @@
 
 ## Premeable
 
-This repo documents the steps I took to have the Windows version of Blue Archive JP running on Linux. This is **not** a full guide. It is taylored to my specific distro and software setup. Feel free to reference this guide, but keep in mind that your milage may vary.
+This repo documents the steps I took to have the Windows version of Blue Archive JP running on Linux. This is **not** a full guide. It is tailored to my specific distro and software setup. Feel free to reference this guide, but keep in mind that your mileage may vary.
 
 ## My setup
 
@@ -20,7 +20,7 @@ Here is a quick run-down of my environment.
 ## Steps
 
 ### Preparation
-Make sure that you grab the lastest versions of your GPU driver. It is also advised to upgrade all your packages using your package manager.
+Make sure that you grab the lastest version of your GPU driver. It is also advised to upgrade all your packages using your package manager.
 
 Make sure you have Steam installed on your machine, and make sure that Proton compatibility layer is already working for Steam games. There are many guides out there. Find one that works for your specific environment. Test it out with some Steam games would help.
 
@@ -87,6 +87,6 @@ Now, if you click on **Play** again, the Launcher should open. Proceed toinstall
 
 ## Caveats
 
-The game won't properly close unless you use the **STOP** button from Steam. 
+The game won't properly close unless you use the **STOP** button from Steam. Not sure how to fix that yet.
 
 The game would first start up in full screen. This can be adjusted in game. You can resize the window and it will stay at the same aspect ratio.
